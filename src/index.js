@@ -1,3 +1,3 @@
-const app = require('./App.jsx');
+import app from './App.jsx'
 
 module.exports = app;
